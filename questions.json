@@ -1,0 +1,27 @@
+[
+    {
+      "question": "Le 9 mai est :",
+      "choice1": "le 20e jour du mois de floréal dans le calendrier républicain français.",
+      "choice2": "Le jour de la  libération de Prague par l'Armée rouge",
+      "choice3": "Le jour où Thomas Blood, déguisé en un membre du clergé, tente de voler les joyaux de la Couronne britannique de la tour de Londres.",
+      "choice4": "C'EST MON ANNIVERSAIRE !",
+      "answer": 4
+    },
+    {
+      "question": "De quoi à besoin une jeune femme de 23 ans, suivant une formation afin de bien grandir et développer son muscle principal : son cerveau ?",
+      "choice1": "Un maximum de drogues durs pour tenir sur la durée.",
+      "choice2": "D'une alimentation équilibrée et saine en faisant au mieux pour respecter son environnement naturel.",
+      "choice3": "D'un homme riche.",
+      "choice4": "Prier chaque jour que Dieu fait.",
+      "answer": 2
+    },
+    {
+      "question": "Pour démarrer dans la vie professionnelle, une jeune web designer à besoin entre autres : ",
+      "choice1": "De se marier à un homme fortuné",
+      "choice2": "De monter asap sa startup et se fixer des KPI ambitieux.",
+      "choice3": "De ne pas compter ses heures.",
+      "choice4": "D'un portfolio en ligne.",
+      "answer": 4
+    }
+  ]  
+
