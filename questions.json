@@ -22,6 +22,45 @@
       "choice3": "De ne pas compter ses heures.",
       "choice4": "D'un portfolio en ligne.",
       "answer": 4
+    },
+    {
+      "question": "~quel est le meilleur pokémon de tous les temps selon toi ?",
+      "choice1": "Dracolosse",
+      "choice2": "Dracolosse",
+      "choice3": "Dracolosse",
+      "choice4": "Dracolosse",
+      "answer": 0
+    },
+    {
+      "question": "Choisis la bonne orthographe parmis ces propositions :",
+      "choice1": "baby",
+      "choice2": "bb",
+      "choice3": "abbay",
+      "choice4": "bae",
+      "answer": 3
+    },{
+      "question": "Pour m'enerver il faut :",
+      "choice1": "Parler de petit Jésus en blasphème",
+      "choice2": "Parler de politique aléatoirement ",
+      "choice3": "Se maquiller avec une démarcation",
+      "choice4": "Dracolosse",
+      "answer": 0
+    },
+    {
+      "question": "Est ce que je pue des pieds :",
+      "choice1": "absolument pas",
+      "choice2": "un peu",
+      "choice3": "énormément et j'ai fais de mes chaussettes une couverture donc attention ",
+      "choice4": "t'as qu'a sentir",
+      "answer": 0
+    },
+    {
+      "question": "Le poulet est pour moi : ",
+      "choice1": "Forbidden",
+      "choice2": "My passion je pourrai mourir pour celui de maman",
+      "choice3": "Mon animal de compagnie",
+      "choice4": "No lo sé",
+      "answer": 0
     }
   ]  
 
