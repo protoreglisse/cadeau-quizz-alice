@@ -43,7 +43,7 @@
       "choice1": "Parler de petit Jésus en blasphème",
       "choice2": "Parler de politique aléatoirement ",
       "choice3": "Se maquiller avec une démarcation",
-      "choice4": "Dracolosse",
+      "choice4": "...",
       "answer": 0
     },
     {
@@ -52,7 +52,7 @@
       "choice2": "un peu",
       "choice3": "énormément et j'ai fais de mes chaussettes une couverture donc attention ",
       "choice4": "t'as qu'a sentir",
-      "answer": 0
+      "answer": 3
     },
     {
       "question": "Le poulet est pour moi : ",
@@ -60,7 +60,7 @@
       "choice2": "My passion je pourrai mourir pour celui de maman",
       "choice3": "Mon animal de compagnie",
       "choice4": "No lo sé",
-      "answer": 0
+      "answer": 2
     }
   ]  
 
